@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Mon, 30 May 2022 09:59:25 GMT
+Content-Length: 11
+
+{"data":[]}--_curl_--"id": "1"
+--_curl_-- "assignedTo": "James"
+--_curl_-- "task": "read" 
